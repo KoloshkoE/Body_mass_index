@@ -5,6 +5,5 @@ public class Main {
         int indexBody = (int) index.calculate(65, 170);
         System.out.println("Индекс массы тела  " + indexBody);
 
-
     }
 }
